@@ -1,3 +1,5 @@
+# Vote Total and Support Graph Automation
+
 In the simplest sense, this script turns raw vote data into a graph. The specific example uses Gubernational election results stratified by county from the 2012 Pence v. Gregg election in Indiana. It's worth noting that this script is very customizable: one can change the type of election (presidential/gubernatorial/etc.), the stratification method (county or DMA), the number of counties or DMA's displayed, and the type of analysis conducted (2-way or 3-way).
 
 This process was established in order to reduce the time spent producing graphs. Instead of copy and pasting already cleaned data into an existing graph and risking all the human errors involved in such a process, this script takes a raw csv file and outputs a graph easily added into a report. Ultimately, this speeds up the process for producing high-level, quality reports. 
